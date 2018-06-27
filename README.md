@@ -6,4 +6,4 @@ Authors: Samuel Feitosa, Rodrigo Ribeiro, Andre Du Bois
 
 Run "stack test" to test properties.
 
-Run "stack test --coverage" to test and generate coverage statistcs.
+Run "stack test --coverage" to test and generate coverage statistics.
